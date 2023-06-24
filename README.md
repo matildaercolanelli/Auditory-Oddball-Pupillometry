@@ -3,7 +3,7 @@ This project was born to measure the pupil diameter of people who are performing
 # MEYE
 MEYE is an opensource web app (https://www.pupillometry.it/) based on a convolutional neural network that performs online pupillometry in both mice and humans. 
 # Stimuli
-The Arduino code generates the two sounds scrolling an array made of 0 (standard sounds) and 1 (target sounds). It's necessary to add the array to the code. I wrote a Matlab script on purpose that creates arrays (length=200) in which the 5% of the element are 1 and the rests are 0. It's avaiable on DaQualcheParteLoMetterò. The administration of stimuli starts when the button is pressed. 
+The Arduino code generates the two sounds scrolling an array made of 0 (standard sounds) and 1 (target sounds). It's necessary to add the array to the code. I wrote a Matlab script on purpose that creates arrays (length=200) in which the 5% of the elements are 1 and the rests are 0. It's avaiable on DaQualcheParteLoMetterò. The administration of stimuli starts when the button is pressed. 
 # Hardware 
 In addition to a computer and an Arduino Leonardo board an USB camera module and an IR light are highly recommended.
 ![circuitocompleto1 2](https://github.com/matildaercolanelli/AuditoryOddball/assets/134204071/b4fcdda3-ff5a-4415-97e9-dee3a9b72e96)
