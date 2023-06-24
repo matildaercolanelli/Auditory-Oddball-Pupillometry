@@ -1,5 +1,5 @@
 # Auditory Oddball and Pupillometry
-This project was born to measure the pupil diameter of people who are performing an Auditory Oddball. This is possible using Arduino Leonardo to generate two sounds different in pitch (named standard and target) and to trigger MEYE. 
+This project is born to measure the pupil diameter of people who are performing an Auditory Oddball. This is possible using Arduino Leonardo to generate two sounds different in pitch (named standard and target) and to trigger MEYE. 
 # MEYE
 MEYE is an opensource web app (https://www.pupillometry.it/) based on a convolutional neural network that performs online pupillometry in both mice and humans. 
 # Stimuli
