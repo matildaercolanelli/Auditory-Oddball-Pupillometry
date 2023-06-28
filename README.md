@@ -7,5 +7,6 @@ The Arduino code generates the two sounds scrolling an array made of 0 (standard
 # Hardware 
 In addition to a computer and an Arduino Leonardo board, an USB camera module and an IR light are highly recommended.
 ![circuitocompleto1 2](https://github.com/matildaercolanelli/AuditoryOddball/assets/134204071/b4fcdda3-ff5a-4415-97e9-dee3a9b72e96)
+![IMG_3904](https://github.com/matildaercolanelli/Auditory-Oddball-Pupillometry/assets/134204071/8de6f250-9c13-4003-8d37-3ff352b999d2)
 # Debounce Library
 In order to obtain a precise button operation I included and used a debounce library in the Arduino code. The library is Bounce 2 by thomasfredericks and it's avaiable on GitHub (https://github.com/thomasfredericks/Bounce2).
