@@ -21,8 +21,8 @@ while i<=200
                   V(i)=0;
                   i=i+1;
               end
-      end
-      end
+            end
+        end
       end
       k=0;
       if i<200
